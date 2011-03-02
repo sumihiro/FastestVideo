@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>ja_JP</string>
 	<key>CFBundleDisplayName</key>
-	<string>${PRODUCT_NAME}</string>
+	<string>ビデオカメラ</string>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIconFile</key>
